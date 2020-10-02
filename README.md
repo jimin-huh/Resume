@@ -13,7 +13,7 @@
 **B.B.A, Business Analytics and Information System**
 - GPA: 3.76/4.0
 - Dean's List: Fall 2018, Spring 2019, and Fall 2019
-![](file:///Users/jiminhuh/Desktop/f'20/IOWA.png)
+![IOWA](file:/IOWA.png)
 
 ## Technical Skills
 **Tools**
