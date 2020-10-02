@@ -13,6 +13,7 @@
 **B.B.A, Business Analytics and Information System**
 - GPA: 3.76/4.0
 - Dean's List: Fall 2018, Spring 2019, and Fall 2019
+![](file:///Users/jiminhuh/Desktop/f'20/IOWA.png)
 
 ## Technical Skills
 **Tools**
@@ -28,27 +29,31 @@
 - Github
 
 ## Activities and Leadership
-**ICUMC Youth**
+### ICUMC Youth
 _President_
 - Held a charity bazaar to donate all the income to a mission camp (earned $8,000 a day)
 - Held a HHymn Contest during Christmas which allowed members to promote their friendship
 
-**Korean Conversation Group**
+### Korean Conversation Group
 _President_
 - Allowed students who are interested in Korean language or culture to have oopportunities to experience the culture
 - Held cultural events every week where students could enjoy learning
 - Held a speech contest every semester which gave winners an opportunity to study abroad in Korea
 - Contacted with King Sejong Institute Foundation in South Korea and collaborated with them
 
-**K-Hawk Soccer Club**
+### K-Hawk Soccer Club
 _President_
 - Designed posters and videos for recruiting every semester
 - Contacted with University of Wisconsic - Madison to proceed a soccer game in Iowa (HTRC)
 
-**Tippie International Buddies**
+### Tippie International Buddies
 _Member_
 - Learned various cultures
 - Worked with students who are interested in Business
+
+## Project
+### Kakao Friends Imoticon
+- Created a character/ emoticon to be used in a messenger (Kakao Talk)
 
 ## Language
 - Korean (native)
